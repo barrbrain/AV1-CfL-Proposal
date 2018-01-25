@@ -160,7 +160,7 @@
 \definecolor{textcolor}{rgb}{0.150000,0.150000,0.150000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=1.760496in,y=0.281097in,,top]{\color{textcolor}\sffamily\fontsize{10.000000}{12.000000}\selectfont Cr}%
+\pgftext[x=1.760496in,y=0.281097in,,top]{\color{textcolor}\sffamily\fontsize{10.000000}{12.000000}\selectfont Cb}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.150000,0.150000,0.150000}%
@@ -268,7 +268,7 @@
 \definecolor{textcolor}{rgb}{0.150000,0.150000,0.150000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=0.281097in,y=1.760496in,,bottom,rotate=90.000000]{\color{textcolor}\sffamily\fontsize{10.000000}{12.000000}\selectfont Cb}%
+\pgftext[x=0.281097in,y=1.760496in,,bottom,rotate=90.000000]{\color{textcolor}\sffamily\fontsize{10.000000}{12.000000}\selectfont Cr}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfpathrectangle{\pgfqpoint{0.677431in}{0.677431in}}{\pgfqpoint{2.166130in}{2.166130in}} %
